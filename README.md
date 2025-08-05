@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Build Status](https://github.com/ayan0138/AlphaSolutions-v2/actions/workflows/maven.yml/badge.svg)
 
 # README – Setup Guide for AlphaSolutions-v2
@@ -90,3 +91,13 @@ Functionality and security have been prioritized. UI/UX improvements and enhance
 This project was developed as part of a 2nd-semester exam at KEA (Copenhagen School of Design and Technology). The codebase is open for reuse and further development with appropriate citation. SQL and technical documentation are available in the GitHub repository.
 
 For enterprise reuse, it's recommended to start by adjusting roles, database models, and user flows based on your specific organizational needs.
+=======
+![Build Status](https://github.com/ayan0138/AlphaSolutions-v2/actions/workflows/maven.yml/badge.svg)
+
+# 📍 Projektkalkulationsværktøj - Alpha Solutions (KEA - 2.semester eksamansprojekt)
+### Velkommen til Calcura!📈
+
+##### Dette er et projektkalkulationsværktøj, som er blevet udarbejdet af 2. semester studerende på KEA. Vi har udviklet et kalkulationsværktøj, til virksomheden Alpha Solutions, hvor vores formål har været at kunne bearbejde et letanvendeligt og effektivt kalkulationsværktøj.
+
+
+>>>>>>> 04b7d1886af512b4e6197163ea8d3b852003c95d
