@@ -6,7 +6,7 @@
 This document provides a step-by-step guide to running the application both locally and via Azure App Service. It is intended for developers, testers, and reviewers who want to install, test, or extend the system.
 
 ## Repository and Live Version
-- **GitHub Repository**: https://github.com/ayan0138/AlphaSolutions-v2  
+- **GitHub Repository**: https://github.com/MarcusLieberH/AlphaSolutions.git
 
 All code is version-controlled using Git and hosted on GitHub. The application uses CI/CD via GitHub Actions to automate building and deployment to Azure.
 
