@@ -7,7 +7,6 @@ This document provides a step-by-step guide to running the application both loca
 
 ## Repository and Live Version
 - **GitHub Repository**: https://github.com/ayan0138/AlphaSolutions-v2  
-- **Live Deployment (Azure)**: https://calcura-hreeezfah6gycscy.swedencentral-01.azurewebsites.net/
 
 All code is version-controlled using Git and hosted on GitHub. The application uses CI/CD via GitHub Actions to automate building and deployment to Azure.
 
